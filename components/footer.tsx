@@ -39,17 +39,12 @@ export default function Footer() {
             <h4 className="font-semibold mb-4 text-foreground">Follow</h4>
             <ul className="space-y-2 text-sm text-muted-foreground">
               <li>
-                <a href="#" className="hover:text-primary transition-colors">
-                  Twitter
-                </a>
-              </li>
-              <li>
-                <a href="#" className="hover:text-primary transition-colors">
+                <a href="https://github.com/safasadika" className="hover:text-primary transition-colors">
                   GitHub
                 </a>
               </li>
               <li>
-                <a href="#" className="hover:text-primary transition-colors">
+                <a href="https://www.linkedin.com/in/sadika-akter-6a434b39a/" className="hover:text-primary transition-colors">
                   LinkedIn
                 </a>
               </li>

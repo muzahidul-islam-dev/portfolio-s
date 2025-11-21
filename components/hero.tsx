@@ -7,7 +7,7 @@ export default function Hero() {
       <div className="max-w-4xl text-center space-y-8">
         <div className="space-y-4 grid justify-center text-center">
           <h1 className="text-6xl md:text-7xl font-bold text-foreground text-balance">
-            Full Stack <span className="text-primary">Developer</span>
+            Front-end <span className="text-primary">Developer</span>
           </h1>
           <p className="text-xl md:text-2xl text-muted-foreground text-balance">
             Building beautiful, performant web experiences with modern technologies
@@ -15,15 +15,15 @@ export default function Hero() {
         </div>
 
         <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-          I specialize in React, Next.js, and TypeScript. I create scalable applications that combine elegant design
+          I specialize in React.js. I create scalable applications that combine elegant design
           with robust engineering.
         </p>
 
         <div className="flex gap-4 justify-center pt-8">
-          <a href="" className="px-8 py-3 bg-primary cursor-pointer text-primary-foreground rounded-lg hover:opacity-90 transition-opacity font-medium">
+          <a href="#projects" className="px-8 py-3 bg-primary cursor-pointer text-primary-foreground rounded-lg hover:opacity-90 transition-opacity font-medium">
             View My Work
           </a>
-          <a href="" className="px-8 py-3 border cursor-pointer border-border text-foreground rounded-lg hover:bg-muted transition-colors font-medium">
+          <a href="#contact" className="px-8 py-3 border cursor-pointer border-border text-foreground rounded-lg hover:bg-muted transition-colors font-medium">
             Get In Touch
           </a>
         </div>

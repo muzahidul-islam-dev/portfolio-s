@@ -58,25 +58,18 @@ export default function Contact() {
                   mstsadikaaktersadia@gmail.com
                 </a>
                 <a
-                  href="#"
+                  href="https://www.linkedin.com/in/sadika-akter-6a434b39a/"
                   className="flex items-center gap-3 text-muted-foreground hover:text-primary transition-colors"
                 >
                   <Linkedin className="w-5 h-5" />
                   LinkedIn
                 </a>
                 <a
-                  href="#"
+                  href="https://github.com/safasadika"
                   className="flex items-center gap-3 text-muted-foreground hover:text-primary transition-colors"
                 >
                   <Github className="w-5 h-5" />
                   GitHub
-                </a>
-                <a
-                  href="#"
-                  className="flex items-center gap-3 text-muted-foreground hover:text-primary transition-colors"
-                >
-                  <Twitter className="w-5 h-5" />
-                  Twitter
                 </a>
               </div>
             </div>
