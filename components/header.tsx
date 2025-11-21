@@ -20,7 +20,7 @@ export default function Header() {
           <li>
             <button
               onClick={() => scrollToSection("about")}
-              className="text-muted-foreground hover:text-foreground transition-colors text-sm uppercase tracking-wider"
+              className="text-muted-foreground cursor-pointer hover:text-foreground transition-colors text-sm uppercase tracking-wider"
             >
               About
             </button>
@@ -28,23 +28,23 @@ export default function Header() {
           <li>
             <button
               onClick={() => scrollToSection("skills")}
-              className="text-muted-foreground hover:text-foreground transition-colors text-sm uppercase tracking-wider"
+              className="text-muted-foreground cursor-pointer hover:text-foreground transition-colors text-sm uppercase tracking-wider"
             >
               Skills
             </button>
           </li>
-          <li>
+          {/* <li>
             <button
               onClick={() => scrollToSection("projects")}
               className="text-muted-foreground hover:text-foreground transition-colors text-sm uppercase tracking-wider"
             >
               Projects
             </button>
-          </li>
+          </li> */}
           <li>
             <button
               onClick={() => scrollToSection("contact")}
-              className="px-6 py-2 bg-primary text-primary-foreground rounded-lg hover:opacity-90 transition-opacity text-sm font-medium"
+              className="px-6 py-2 bg-primary cursor-pointer text-primary-foreground rounded-lg hover:opacity-90 transition-opacity text-sm font-medium"
             >
               Contact
             </button>
