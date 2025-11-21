@@ -14,7 +14,7 @@ export default function Header() {
   return (
     <header className="fixed top-0 w-full bg-background/95 backdrop-blur-sm border-b border-border z-50">
       <nav className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
-        <div className="text-2xl font-bold text-primary">Alex</div>
+        <div className="text-2xl font-bold text-primary">Sdika</div>
 
         <ul className="flex gap-8 items-center">
           <li>
