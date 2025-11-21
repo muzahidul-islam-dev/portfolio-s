@@ -51,11 +51,11 @@ export default function Contact() {
               <h3 className="text-lg font-semibold mb-4 text-foreground">Contact Information</h3>
               <div className="space-y-4">
                 <a
-                  href="mailto:hello@example.com"
+                  href="mailto:mstsadikaaktersadia@gmail.com"
                   className="flex items-center gap-3 text-muted-foreground hover:text-primary transition-colors"
                 >
                   <Mail className="w-5 h-5" />
-                  hello@example.com
+                  mstsadikaaktersadia@gmail.com
                 </a>
                 <a
                   href="#"

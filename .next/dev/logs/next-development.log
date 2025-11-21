@@ -1,16 +1,120 @@
-[00:00:11.085] Server  LOG     
-[00:00:11.085] Server  LOG        We detected TypeScript in your project and reconfigured your tsconfig.json file for you.
-[00:00:11.085] Server  LOG        The following suggested values were added to your tsconfig.json. These values can be changed to fit your project's needs:
+[00:00:01.653] Server  LOG      ✓ Ready in 1159ms
+[00:00:14.431] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:14.582] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:14.582] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:14.582] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763745902061}
+[00:00:44.824] Server  LOG      ✓ Compiled in 74ms
+[00:00:47.430] Server  LOG      ✓ Compiled in 65ms
+[00:00:47.514] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:00:50.162] Server  LOG      ✓ Compiled in 79ms
+[00:02:37.904] Server  LOG      ✓ Compiled in 70ms
+[00:02:37.948] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:02:41.620] Server  LOG      ✓ Compiled in 71ms
+[00:02:48.165] Server  LOG      ✓ Compiled in 61ms
+[00:02:48.325] Browser ERROR   uncaughtError: TypeError: Failed to construct 'Image': Please use the 'new' operator, this DOM object constructor cannot be called as a function.
+[00:02:50.208] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:02:50.211] Server  LOG      ✓ Compiled in 229ms
+[00:02:50.359] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763746057810}
+[00:02:50.549] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:50.746] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:02:50.746] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:02:50.746] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763746058194}
+[00:02:50.746] Browser WARN    Image with src "/_next/static/media/profile.0b0290c1.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:02:55.760] Server  LOG      ✓ Compiled in 68ms
+[00:03:13.610] Server  LOG      ✓ Compiled in 53ms
+[00:03:23.094] Server  LOG      ✓ Compiled in 109ms
+[00:03:29.721] Server  LOG      ✓ Compiled in 124ms
+[00:03:37.628] Server  LOG      ✓ Compiled in 91ms
+[00:03:39.661] Server  LOG      ✓ Compiled in 103ms
+[00:03:45.202] Server  LOG      ✓ Compiled in 55ms
+[00:03:48.947] Server  LOG      ✓ Compiled in 50ms
+[00:03:50.360] Server  LOG      ✓ Compiled in 48ms
+[00:04:00.485] Server  LOG      ✓ Compiled in 76ms
+[00:04:05.604] Server  LOG      ✓ Compiled in 56ms
+[00:04:09.194] Server  LOG      ✓ Compiled in 107ms
+[00:04:10.576] Server  LOG      ✓ Compiled in 91ms
+[00:04:11.844] Server  LOG      ✓ Compiled in 56ms
+[00:04:14.253] Server  LOG      ✓ Compiled in 116ms
+[00:04:33.186] Server  LOG      ✓ Compiled in 56ms
+[00:04:42.093] Server  LOG      ✓ Compiled in 55ms
+[00:04:53.554] Server  LOG      ✓ Compiled in 110ms
+[00:04:58.147] Server  LOG      ✓ Compiled in 109ms
+[00:05:14.574] Server  LOG      ✓ Compiled in 45ms
+[00:05:33.251] Server  LOG      ✓ Compiled in 47ms
+[00:05:34.130] Browser ERROR   uncaughtError: ReferenceError: Profile is not defined
+[00:05:37.777] Server  ERROR   D:\__public\project\portfolio\sadika\.next\dev\server\chunks\ssr\_70f7ebf3._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:05:37.779] Server  ERROR    ⨯ ReferenceError: Profile is not defined
+[00:05:37.794] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:05:37.956] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:38.133] Browser ERROR   uncaughtError: ReferenceError: Profile is not defined
+[00:05:45.723] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:05:45.838] Server  ERROR   D:\__public\project\portfolio\sadika\.next\dev\server\chunks\ssr\_70f7ebf3._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:05:45.839] Server  ERROR    ⨯ ReferenceError: Profile is not defined
+[00:05:45.848] Server  LOG      ✓ Compiled in 50ms
+[00:05:45.962] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:46.129] Browser ERROR   uncaughtError: ReferenceError: Profile is not defined
+[00:05:47.312] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:05:47.404] Server  ERROR   D:\__public\project\portfolio\sadika\.next\dev\server\chunks\ssr\_70f7ebf3._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:05:47.404] Server  ERROR    ⨯ ReferenceError: Profile is not defined
+[00:05:47.413] Server  LOG      ✓ Compiled in 55ms
+[00:05:47.532] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:48.133] Browser ERROR   uncaughtError: ReferenceError: Profile is not defined
+[00:05:49.222] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:05:49.319] Server  LOG      ✓ Compiled in 53ms
+[00:05:49.431] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:50.136] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:05:50.136] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:05:50.136] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763746237079}
+[00:06:05.248] Server  LOG      ✓ Compiled in 60ms
+[00:06:11.617] Server  LOG      ✓ Compiled in 121ms
+[00:06:46.310] Server  LOG      ✓ Compiled in 62ms
+[00:06:54.570] Server  LOG      ✓ Compiled in 44ms
+[00:08:14.003] Server  LOG      ✓ Compiled in 90ms
+[00:08:16.547] Server  LOG      ✓ Compiled in 167ms
+[00:08:28.528] Server  LOG      ✓ Compiled in 67ms
+[00:08:41.611] Server  LOG      ✓ Compiled in 43ms
+[00:08:43.547] Server  LOG      ✓ Compiled in 48ms
+[00:08:44.957] Server  LOG      ✓ Compiled in 52ms
+[00:08:54.667] Server  LOG      ✓ Compiled in 55ms
+[00:09:12.855] Server  LOG      ✓ Compiled in 68ms
+[00:09:36.191] Server  LOG      ✓ Compiled in 56ms
+[00:09:45.141] Server  LOG      ✓ Compiled in 58ms
+[00:09:52.254] Server  LOG      ✓ Compiled in 60ms
+[00:09:58.104] Server  LOG      ✓ Compiled in 40ms
+[00:10:12.441] Server  LOG      ✓ Compiled in 67ms
+[00:10:17.795] Server  LOG      ✓ Compiled in 54ms
+[00:10:22.747] Server  LOG      ✓ Compiled in 48ms
+[00:10:27.037] Server  LOG      ✓ Compiled in 58ms
+[00:10:39.365] Server  LOG      ✓ Compiled in 49ms
+[00:10:49.037] Server  LOG      ✓ Compiled in 52ms
+[00:10:55.531] Server  LOG      ✓ Compiled in 49ms
+[00:10:57.890] Server  LOG      ✓ Compiled in 50ms
+[00:11:01.749] Server  LOG      ✓ Compiled in 65ms
+[00:11:30.636] Server  LOG      ✓ Compiled in 55ms
+[00:11:38.706] Server  LOG      ✓ Compiled in 49ms
+[00:11:40.839] Server  LOG      ✓ Compiled in 97ms
+[00:12:01.759] Server  LOG      ✓ Compiled in 72ms
+[00:12:30.305] Server  LOG      ✓ Compiled in 91ms
+[00:12:45.772] Server  LOG      ✓ Compiled in 62ms
+[00:13:02.503] Server  LOG      ✓ Compiled in 84ms
+[00:13:14.982] Server  LOG      ✓ Compiled in 60ms
+[00:13:29.360] Server  LOG      ✓ Compiled in 56ms
+[00:13:31.942] Server  LOG      ✓ Compiled in 53ms
+[00:13:39.902] Server  LOG      ✓ Compiled in 51ms
+[00:13:42.123] Server  LOG      ✓ Compiled in 50ms
+[00:13:49.560] Server  LOG      ✓ Compiled in 50ms
+[00:13:55.180] Server  LOG      ✓ Compiled in 51ms
+[00:14:38.501] Server  LOG      ✓ Compiled in 58ms
+[00:15:34.167] Server  LOG      ✓ Compiled in 83ms
+[00:15:36.106] Server  LOG      ✓ Compiled in 102ms
+[00:15:39.119] Server  LOG      ✓ Compiled in 59ms
+[00:15:42.695] Server  LOG      ✓ Compiled in 73ms
+[00:15:59.654] Server  LOG      ✓ Compiled in 54ms
+[00:15:59.726] Browser ERROR   Received `%s` for a non-boolean attribute `%s`.
 
-[00:00:11.085] Server  LOG        	- include was updated to add '.next/dev/types/**/*.ts'
-[00:00:11.086] Server  LOG     
-[00:00:11.086] Server  LOG        The following mandatory changes were made to your tsconfig.json:
-
-[00:00:11.086] Server  LOG        	- jsx was set to react-jsx (next.js uses the React automatic runtime)
-[00:00:11.086] Server  LOG     
-[00:00:12.923] Server  LOG      ✓ Ready in 7.6s
-[00:00:15.943] Server  LOG      ○ Compiling / ...
-[00:00:19.327] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:19.833] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:00:19.833] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:00:19.833] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763741789820}
+If you want to write it to the DOM, pass a string instead: %s="%s" or %s={value.toString()}. true href href true href
+[00:16:01.860] Server  LOG      ✓ Compiled in 55ms
+[00:16:01.922] Browser ERROR   An empty string ("") was passed to the %s attribute. To fix this, either do not render the element at all or pass null to %s instead of an empty string. href href
+[00:16:07.667] Server  LOG      ✓ Compiled in 53ms
+[00:16:48.632] Server  LOG      ✓ Compiled in 60ms
