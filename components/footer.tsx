@@ -10,7 +10,7 @@ export default function Footer() {
           <div>
             <h4 className="font-semibold mb-4 text-foreground">About</h4>
             <p className="text-muted-foreground text-sm">
-              Full-stack developer creating beautiful and functional web experiences.
+              Front End developer creating beautiful and functional web experiences.
             </p>
           </div>
 
