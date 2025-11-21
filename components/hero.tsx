@@ -23,7 +23,10 @@ export default function Hero() {
           {/* <a href="#projects" className="px-8 py-3 bg-primary cursor-pointer text-primary-foreground rounded-lg hover:opacity-90 transition-opacity font-medium">
             View My Work
           </a> */}
-          <a href="#contact" className="px-8 py-3 border cursor-pointer border-border text-foreground rounded-lg hover:bg-muted transition-colors font-medium">
+          {/* <a href="#contact" className="px-8 py-3 border cursor-pointer border-border text-foreground rounded-lg hover:bg-muted transition-colors font-medium">
+            Get In Touch
+          </a> */}
+          <a href="#contact" className="px-8 py-3 bg-primary cursor-pointer text-primary-foreground rounded-lg hover:opacity-90 transition-opacity font-medium">
             Get In Touch
           </a>
         </div>
